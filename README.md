@@ -35,4 +35,3 @@ A comprehensive research report analyzing the evolution, mechanics and systemic 
 
 # Author
 **Mohd Nizam Mohd Nasir Shaikh**
-Master of Science in FinTech, National College of Ireland
